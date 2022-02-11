@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header class start*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* header class end*/
 
 a {
     color: #ffffff;
@@ -74,6 +75,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* image formatting ends*/
+
 /*benefits class Start*/
 .benefits {
     margin-right: 20px;
@@ -135,6 +138,7 @@ p {
 }
 /*benefits class end*/
 
+/*header start*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -178,6 +182,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*header formatting end*/
+
+
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
