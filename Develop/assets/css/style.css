@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* image formating*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*benefits class Start*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,6 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*benefits class end*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
