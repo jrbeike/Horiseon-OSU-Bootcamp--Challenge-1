@@ -1,5 +1,3 @@
-{< img width=1600" alt=">}
-
 # Horiseo
 
 ## Built with:
@@ -14,10 +12,10 @@ Goals to provide SEO optimiziation via:
 
 
 
-#### To view the website, click the link below:
-```shell
+#### To view the website
+
 Website: (https://github.com/jrbeike/Horiseon-OSU-Bootcamp--Challenge-1.git)
-```
+
 
 ## Contribution by:
 Joseph Beike
