@@ -14,7 +14,7 @@ Goals to provide SEO optimiziation via:
 
 #### To view the website
 
-Website: (https://github.com/jrbeike/Horiseon-OSU-Bootcamp--Challenge-1.git)
+Website: 
 
 
 ## Contribution by:
